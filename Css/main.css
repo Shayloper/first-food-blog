@@ -1,0 +1,20 @@
+body{
+    background-color: lightgreen;
+    margin-left: 50px;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+div{
+    border: 4px dashed blue;
+    border-radius: 87px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+footer{
+    background-color: brown;
+}
