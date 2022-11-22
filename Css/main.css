@@ -1,5 +1,6 @@
 body{
-    background-color: lightgreen;
+    font-family: 'Patrick Hand', cursive;
+    background-image: linear-gradient(#1e3799, #e55039, #fa983a);
     margin-left: 50px;
     text-align: center;
 }
@@ -16,5 +17,5 @@ div{
 }
 
 footer{
-    background-color: brown;
+    background-color: purple;
 }
